@@ -8,8 +8,8 @@ global.nameowner = 'Satganz Devs'
 global.numberowner = '6281316701742'
 global.instagram = 'https://instagram.com/kurniawansatria_24'
 global.github = 'https://github.com/SatzzBotzz'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
+global.dana = '081266891985'
+global.pulsa = '081266891985'
 global.gopay = '081398860278'
 
 //=============『 Info Bot 』=================//
@@ -19,8 +19,8 @@ global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig,
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.ibb.co/kcKf154/Deff.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.ibb.co/wNXNnNK/satganz.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/0b19d274ec9e92070acb6.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0b19d274ec9e92070acb6.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Satganz Devs'
