@@ -4,6 +4,7 @@ let teks = 'donasi'
 let dana = global.dana
 let pulsa = global.pulsa
 let gopay = global.gopay
+let saweria = global.saweria
 let numberowner = global.numberowner
 let anu = `Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
@@ -11,6 +12,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ├ Dana : ${dana}
 ├ Pulsa : ${pulsa}
 ├ Gopay : ${gopay}
+├ Saweria : ${saweria}
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
