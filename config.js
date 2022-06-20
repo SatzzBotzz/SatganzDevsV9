@@ -14,30 +14,30 @@ global.gopay = '081398860278'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Psatir-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
-global.web = 'https://satganz.kurniawansatria.repl.co' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://bit.ly/39FaG56'
+global.web = 'https://satganz.kurniawansatria.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/0b19d274ec9e92070acb6.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/0b19d274ec9e92070acb6.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/ff970d1572a0ffddabe58.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0a0c553eee6f502fe8564.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Satganz Devs'
 global.watermark = wm
-global.wm2 = '                     「 Bot Psatir あ⁩ 」'
-global.wm3 = '⫹⫺ Bot Psatir'
+global.wm2 = '                     「 𝙷𝚒𝚗𝚊𝚝𝚊 𝙲𝚑𝚊𝚗𝚗 あ⁩ 」'
+global.wm3 = '⫹⫺ 𝙷𝚒𝚗𝚊𝚝𝚊 𝙲𝚑𝚊𝚗𝚗'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/15e59dff202dbda26ab7e.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Satganz Devs'
+global.packname = '© Satganz Devs'
+global.author = 'Hinata Chann'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
