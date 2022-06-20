@@ -1,6 +1,6 @@
 //=============『 Utama 』================== //
 global.owner = ['6281316701742'] 
-global.mods = [] 
+global.mods = ['6281316701742'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
@@ -11,9 +11,10 @@ global.github = 'https://github.com/SatzzBotzz'
 global.dana = '081266891985'
 global.pulsa = '081266891985'
 global.gopay = '081398860278'
+global.saweria = 'https://saweria.co/SatganzDevs'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Psatir-Md'
+global.namebot = '𝙷𝚒𝚗𝚊𝚝𝚊 𝙲𝚑𝚊𝚗𝚗'
 global.gc = 'https://bit.ly/39FaG56'
 global.web = 'https://satganz.kurniawansatria.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
